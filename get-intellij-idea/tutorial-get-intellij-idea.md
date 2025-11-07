@@ -30,7 +30,7 @@ The Ultimate download is at the top of the webpage.
 
 1. Select the correct processor for your computer (Intel or Apple Silicon) in the drop down in the blue 'download' button in the middle of the page. ![Screenshot of blue download button](./images/screenshot-intellij-idea-website-download-button.png)
 
-2. Push the 'download' button. The screen will refresh while IntelliJ is downloading. ![thank you for downloading webpage](./images/screenshot-webpage-thank-you-for-downloading.png)
+2. Push the 'download' button. The screen will refresh while IntelliJ IDEA is downloading. ![thank you for downloading webpage](./images/screenshot-webpage-thank-you-for-downloading.png)
 
 ## Installing IntelliJ Ultimate on MacOS
 
@@ -42,7 +42,7 @@ This will lead to a popup window appearing.
 
 6. In the pop up window, click and drag the IntelliJ IDEA icon on top of the Applications folder icon.
 This will result in a pop up status bar showing IntelliJ IDEA installation progress.
-![IntelliJ IDEA installation progress bar](./images/screenshot-status-bar-intellij-idea-copied-into-applications.png)
+![IntelliJ IDEA installation progress bar](.images/screenshot-progress-bar-intellij-idea-copied-into-applications.png)
 
 7. Open your Applications folder and find IntelliJ IDEA.
 
