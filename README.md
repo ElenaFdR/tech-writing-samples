@@ -7,6 +7,7 @@ This is the start of my tech writing portfolio.
 This repo contains:
 
 - [tutorial for downloading and installing IntelliJ IDEA Ultimate on MacOS](get-intellij-idea/tutorial-get-intellij-idea.md)
+- [concept document explaining Firefox Focus' Trackers Blocked metric](firefox-focus-trackers-blocked/concept-firefox-focus-trackers-blocked-metric.md)
 
 ## Sources
 
