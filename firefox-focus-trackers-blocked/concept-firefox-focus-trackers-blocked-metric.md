@@ -1,8 +1,8 @@
 # Concept: Firefox Focus trackers blocked metric
 
-'Trackers blocked' shows the number of website trackers blocked by the browser since the browser was installed.
+'Trackers blocked' shows the number of website trackers blocked by the Mozilla Firefox Focus web browser since the browser was installed.
 
-It is the only metric exposed by the Mozilla Firefox Focus web browser.
+It is the only metric exposed by Firefox Focus.
 
 ![Firefox Focus homescreen](./images/firefox-focus-homescreen.jpeg)
 
