@@ -1,4 +1,4 @@
-# Tutorial: # Get IntelliJ IDEA Ultimate for MacOS
+# Tutorial: Get IntelliJ IDEA Ultimate for MacOS
 
 ## Overview
 
@@ -29,10 +29,12 @@ To get started, navigate to [the IntelliJ IDEA downloads page](https://www.jetbr
 The Ultimate download is at the top of the webpage.
 
 1. Select the correct processor for your computer (Intel or Apple Silicon) in the drop down in the blue 'download' button in the middle of the page.
+
 ![Screenshot of blue download button](/images/screenshot-intellij-idea-website-download-button.png)
 
 2. Push the 'download' button. The screen will refresh while IntelliJ is downloading.
-![thank you for downloading webpage](get-intellij-idea/images/screenshot-webpage-thank-you-for-downloading.png)
+
+![thank you for downloading webpage](/images/screenshot-webpage-thank-you-for-downloading.png)
 
 ## Installing IntelliJ Ultimate on MacOS
 
@@ -44,13 +46,13 @@ This will lead to a popup window appearing.
 
 6. In the pop up window, click and drag the IntelliJ IDEA icon on top of the Applications folder icon.
 This will result in a pop up status bar showing IntelliJ IDEA installation progress.
-![IntelliJ IDEA installation progress bar](get-intellij-idea/images/screenshot-status-bar-intellij-idea-copied-into-applications.png)
+![IntelliJ IDEA installation progress bar](/images/screenshot-status-bar-intellij-idea-copied-into-applications.png)
 
 7. Open your Applications folder and find IntelliJ IDEA.
 
 8. Double click the IntelliJ IDEA application.
 Depending on your settings, you may need to confirm that you wish to open the application.
-![Consent popup: open application downloaded from internet](get-intellij-idea/images/screenshot-consent-install-app-downloaded-from-internet.png)
+![Consent popup: open application downloaded from internet](/images/screenshot-consent-install-app-downloaded-from-internet.png)
 The application will open on your computer (depending on your settings, the icon will appear in your Dock).
 It will also launch multiple dialogue windows.
 
@@ -61,7 +63,7 @@ You no longer need it.
 You no longer need it.
 
 11. Eject the IntelliJ IDEA installer disk image.
-![Finder window](get-intellij-idea/images/screenshot-finder-window.png)
+![Finder window](/images/screenshot-finder-window.png)
 Right click on it under the 'Locations' heading.
 Select 'eject'.
 
@@ -74,7 +76,7 @@ You will not be able to use IntelliJ IDEA without accepting this.
 You can still use IntelliJ if you refuse this.
 
 11. Click 'allow' on the dialogue pop up asking if IntelliJ IDEA may find devices on local networks.
-![consent popup: find devices on local networks](get-intellij-idea/images/screenshot-consent-find-devices-on-local-networks.png)
+![consent popup: find devices on local networks](/images/screenshot-consent-find-devices-on-local-networks.png)
 IntelliJ IDEA will be ready to use after completing the dialogue boxes.
 
 ## Start a free 30 day trial
@@ -83,9 +85,9 @@ IntelliJ IDEA will be ready to use after completing the dialogue boxes.
 ![IntelliJ IDEA Ultimate homescreen](/images/screenshot-intellij-idea-homescreen.png)
 
 13. Select 'Start a free trial' in the top right corner of the new project window.
-![Trial button](get-intellij-idea/images/screenshot-intellij-idea-start-free-trial-button.png)
+![Trial button](/images/screenshot-intellij-idea-start-free-trial-button.png)
 A new tab will open in your IntelliJ IDEA application called 'Trial'.
-![Trial tab with call to action to 'unlock free trial'](get-intellij-idea/images/screenshot-homepage-unlock-free-trial.png)
+![Trial tab with call to action to 'unlock free trial'](/images/screenshot-homepage-unlock-free-trial.png)
 
 14. Click on the blue 'Start a free trial' button.
 A pop up with a status bar will appear showing plugins related to the free trial being loaded.
@@ -95,7 +97,7 @@ It will automatically disappear when the plugin loading process is complete.
 15. Click on the 'trial' button in the top right.
 A new screen will load in the 'trial' tab confirming that your trial is active.
 It will also display how many days are left in your trial, and offer subscription options.
-![Confirmation free trial is active](get-intellij-idea/images/screenshot-confirmation-free-trial-is-active.png)
+![Confirmation free trial is active](/images/screenshot-confirmation-free-trial-is-active.png)
 
 ## Summary
 
